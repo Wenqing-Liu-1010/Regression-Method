@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+
+\bibitem{agresti2015foundations}
+Alan Agresti.
+\newblock {\em Foundations of linear and generalized linear models}.
+\newblock John Wiley \& Sons, 2015.
+
+\bibitem{diaconis1987dynamical}
+Persi Diaconis, Susan Holmes, and Richard Montgomery.
+\newblock The dynamical bias in the coin toss.
+\newblock {\em SIAM review}, 49(2):211--235, 2007.
+
+\bibitem{gelman2006data}
+Andrew Gelman and Jennifer Hill.
+\newblock Data analysis using regression and multilevel/hierarchical models.
+\newblock {\em Cambridge university press}, 2006.
+
+\bibitem{mahadevan2024coin}
+Lakshminarayanan Mahadevan, Srinivasa~M Acharya, Michael Thrasher, and James~P
+  Sethna.
+\newblock Coin flips are not random: Evidence from 350,757 flips by 48 people
+  using 211 coins.
+\newblock {\em arXiv preprint arXiv:2310.04153}, 2024.
+
+\bibitem{mccullagh1989generalized}
+Peter McCullagh and John~A Nelder.
+\newblock Generalized linear models.
+\newblock {\em Chapman and Hall}, 1989.
+
+\end{thebibliography}
